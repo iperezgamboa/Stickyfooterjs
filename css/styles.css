@@ -1,0 +1,30 @@
+body {
+  background: #c1dfc1;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+header {
+  background: #273b47;
+}
+
+section {
+  background: lightpink;
+  /* height: 253px; */
+}
+
+footer {
+  background: tomato;
+}
+
+/* #contenido {
+  minHeight: calculo;
+} */
